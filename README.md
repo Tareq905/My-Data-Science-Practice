@@ -33,6 +33,11 @@ To run the notebooks locally:
    ```bash
    git clone https://github.com/Tareq905/My-Data-Science-Practice.git
    cd My-Data-Science-Practice
-python -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
-jupyter notebook
+   python -m venv venv
+   source venv/bin/activate   # On Windows: venv\Scripts\activate
+   jupyter notebook
+
+
+## Happy Coding 👍
+
+
