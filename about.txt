@@ -1,0 +1,11 @@
+## 👋 Hi, I'm Tareq
+
+I'm a data science enthusiast with a deep curiosity for uncovering insights from data. This repository is a collection of everything I've practiced, explored, and learned on my journey into data science.
+
+From basic data wrangling to building machine learning models, this space reflects my continuous effort to improve, experiment, and understand how data can drive decisions.
+
+Data science, to me, is not just a field—it's a mindset of asking the right questions, solving problems, and storytelling through numbers. Whether it’s analyzing trends, cleaning messy data, or training predictive models, I enjoy the entire process of turning raw data into actionable insights.
+
+If you're also passionate about data, feel free to explore the projects, suggest improvements, or just connect with me!
+
+Let’s keep learning, building, and sharing.
