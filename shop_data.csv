@@ -1,0 +1,11 @@
+age,income,gender,m_status,buys
+25,40000,Male,Single,Yes
+34,60000,Female,Married,No
+45,120000,Female,Single,Yes
+23,32000,Male,Married,No
+54,100000,Male,Married,Yes
+35,72000,Female,Single,No
+52,115000,Male,Married,Yes
+46,85000,Female,Single,No
+33,54000,Female,Married,Yes
+29,47000,Male,Single,No
